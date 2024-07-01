@@ -4,12 +4,6 @@ Hi, I'm `@blu35creen`. Looks like you've found my GitHub.
 
 I'm a fresh graduate on the hunt for the next fun project.
 
-I have a part-time job teaching coding to kids.
-
-In my free time I like to draw and code.
-
-(What gave it away?)
-
 # Projects
 
 These are the main projects I'll show off. Message me if you're about to offer me a job but want keys to the castle first.
@@ -47,3 +41,13 @@ These are the projects that I've also contributed work on.
 - Memories From the Plantation
 - Daedalous
 --->
+
+# ...About?
+
+You've caught me. I'm a summa cum laude graduate from SMU's BSc (Computing & Law) programme, with a second major in Information Systems - Digitalization and Cloud Solutions track.
+
+I am also a nerd who teaches Scratch and Python and Excel and, on occasion and when pressed, Microsoft Word.
+
+I also draw. A lot. With my iPad. That profile picture is my work.
+
+Pleased to meet you!
