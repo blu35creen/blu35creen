@@ -2,7 +2,7 @@
 
 Hi, I'm `@blu35creen`. Looks like you've found my GitHub.
 
-I'm a fresh graduate on the hunt for the next fun project.
+I'm a full-stack developer, so says my boss.
 
 # Projects
 
