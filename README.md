@@ -48,6 +48,6 @@ You've caught me. I'm a summa cum laude graduate from SMU's BSc (Computing & Law
 
 I am also a nerd who teaches Scratch and Python and Excel and, on occasion and when pressed, Microsoft Word.
 
-I also draw. A lot. With my iPad. That profile picture is my work.
+I also dabble in art and design, because it makes my work as a web developer better, and I believe in nice things.
 
 Pleased to meet you!
